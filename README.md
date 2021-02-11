@@ -17,7 +17,7 @@ This project was originally inspired by Dark Thunder, edited/fixed by Blazerd & 
    this is the language it was built for (it will tell you also if you wanna make your repl project private or public which that's your choice)
    - Click on "Create repl" and you should be able to see your project (if you don't see it, click on the top left bar and go to "my repls")
    - Go to your new project and upload the source code (unzip the file)
-   - Once you done that, go to the `.env` file and it will tell tell you to put a `TOKEN` of your bot
+   - Once you done that, go to the `.env` file and it will tell you to put a `TOKEN` of your bot
    - Paste your Discord Bot token there and click on the`Run` button and your bot should be able to be online
 
 # NOTICE
